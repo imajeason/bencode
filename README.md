@@ -6,7 +6,7 @@ Bencode implementation in Go
 ## Install
 
 ```bash
-$ go get github.com/marksamman/bencode
+$ go get github.com/imajeason/bencode
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/marksamman/bencode"
+	"github.com/imajeason/bencode"
 )
 
 func main() {
